@@ -35,4 +35,4 @@ To install the library use the follwing command, </br>
 ### ENJOY LISTENING TO YOUR BOOKS!! 
 
 <p align="center">Thank you for scrolling all the way!</p>
-<p align="center"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-teal?style=for-the-badge" /></a></p>
+<p align="center"><a href="#top"><img src="https://img.shields.io/badge/-Back%20to%20Top-crimson?style=for-the-badge" /></a></p>
